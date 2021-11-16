@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 *{
     margin: 0;
     padding: 0;
@@ -23,3 +24,10 @@ footer ul{
     font-size: 1.2vw;
 
 }
+=======
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+>>>>>>> c2f3999935fc5c9a646ca4a3bdbf377726e678ae
